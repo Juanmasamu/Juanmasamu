@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi! I’m Juan Manuel Sáez Muñoz 👋
 
-<!--
-**Juanmasamu/Juanmasamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biomedical Engineering Student | Interested in AI & Data Analysis
 
-Here are some ideas to get you started:
+I’m a Biomedical Engineering student with a strong interest in applying **Artificial Intelligence** and **Data Analysis** to biomedical projects. I enjoy learning about signal processing, machine learning, and how data can help improve healthcare solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Areas of Interest
+
+* **AI in Healthcare:** Exploring machine learning models on biomedical data and physiological signals.
+* **Biomedical Data Processing:** Cleaning, visualizing, and analyzing data using Python and MATLAB.
+* **System Development:** Integrating software and hardware for signal acquisition and processing.
+
+---
+
+### 🔥 Languages and tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="60" />
+  <img src="https://skillicons.dev/icons?i=java" width="60" />
+  <img src="https://skillicons.dev/icons?i=matlab" width="60" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="60" />
+</p>
+
+---
+
+<p align="center">
+  <span style="font-size:16px;"><b>BIOMEDICAL ENGINEERING 💻 🦾</b></span>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
